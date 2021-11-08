@@ -16,8 +16,11 @@
 
 ### June/December Plots
 ![](https://github.com/mooshak21/surfs_up/blob/main/Resources/JuneTempPlotQuery.png)
+
 ![](https://github.com/mooshak21/surfs_up/blob/main/Resources/JuneTempPlot.png)
+
 ![](https://github.com/mooshak21/surfs_up/blob/main/Resources/DecTempPlotQuery.png)
+
 ![](https://github.com/mooshak21/surfs_up/blob/main/Resources/DecTempPlot.png)
 1. For the June plot we can see more concentration of data points on the ends of chart meaning there are more points on the lower and higher ends of the data set.
 
@@ -30,5 +33,6 @@
 Based on our analysis, both June and December aren't much different in their temperature data in regards to attracting potential customers. The temperature data is definitely favorable to have consistent visitors to the shop whether surfing or just getting ice cream. With this data, our investor will most likely find it something he would want to invest in. 
 
 Two additional queries that we can run are for the precipitation data for both months as that is also important to see if customers would show up. Surfers/visitors will not want to come that often if some months have high/consistent precipitation levels. Below we can see the summary stats for the precipitation for both months:
+
 ![](https://github.com/mooshak21/surfs_up/blob/main/Resources/JunePrecStats.png)
 ![](https://github.com/mooshak21/surfs_up/blob/main/Resources/DecPrecStats.png)
