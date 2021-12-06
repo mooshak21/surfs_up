@@ -1,7 +1,7 @@
 # Exploring Hawaii Temperature Data
 ## Overview
 
-> In this project we conducting analysis on the weather in Oahu, Hawaii. Our goal is to open an ice cream shop and to gain the trust of our investor, we must provide him with the summary statistics on the temperatures in certain months to help him gain an understanding. We will mainly focus on the months of June and December. Using a SQLite DB linking it with Pandas, SQLalchemy, and Matplotlib we will be able to generate statistics and charts to analyze the data. We can use this information to see the trends on the data for these months to create a final report. 
+> In this project we're conducting analysis on the weather in Oahu, Hawaii. Our goal is to open an ice cream shop and to gain the trust of our investor, we must provide him with the summary statistics on the temperatures in certain months to help him gain an understanding. We will mainly focus on the months of June and December. Using a SQLite DB linking it with Pandas, SQLalchemy, and Matplotlib we will be able to generate statistics and charts to analyze the data. We can use this information to see the trends on the data for these months to create a final report. 
 ---
 
 ## Results
